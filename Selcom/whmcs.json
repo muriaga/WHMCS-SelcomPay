@@ -7,7 +7,7 @@
   "description": {
     "name": "Selcom Payments",
     "tagline": "WHMCS Selcom Payment Gateway Merchant Solution.",
-    "long": "Selcom is the fast, easy, secure way to accept mobile payments and mobile online. PAY WITH SELCOM empowers any business across the country to receive and also make payments from the convenience of a mobile phone. \n\n## Apply for Selcom APIs \n[Apply and request for the API documentation &raquo;](https://www.selcom.net/)",
+    "long": "Selcom Pay is the secure way to accept all mobile money payments. Get connected with millions of customers of Selcom, Airtel Money, Halotel, and TigoPesa to transact on your marketplace. \n\n## Apply for Selcom APIs \n[Apply and request for the API documentation &raquo;](https://www.selcom.net/)",
     "features": [
       "Automatic Mobile Online Payments",
       "Send direct USSD Push notification to client's mobile",
