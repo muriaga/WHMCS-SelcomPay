@@ -1,0 +1,37 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "selcom",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "Selcom Payments",
+    "tagline": "WHMCS Selcom Payment Gateway Merchant Solution.",
+    "long": "Selcom is the fast, easy, secure way to accept mobile payments and mobile online. PAY WITH SELCOM empowers any business across the country to receive and also make payments from the convenience of a mobile phone. \n\n## Apply for Selcom APIs \n[Apply and request for the API documentation &raquo;](https://www.selcom.net/)",
+    "features": [
+      "Automatic Mobile Online Payments",
+      "Send direct USSD Push notification to client's mobile",
+      "Simplified checkout procedure, with order status updates as payments occur",
+      "Automated  Merchant Payment Receipt Processing",
+      "Integrates with WHMCS for Selcom Payments Gateway"
+    ]
+  },
+  "logo": {
+    "filename": "logo.svg"
+  },
+  "support": {
+    "homepage": "https:\/\/www.whmcs.com\/",
+    "docs_url": "https:\/\/docs.whmcs.com\/Selcom",
+	"email": "emmanuelmuriaga@gmail.com",
+    "learn_more": "https:\/\/github.com\/muriaga\/WHMCS-Selcom"
+
+  },
+  "authors": [
+    {
+      "name": "Emmanuel B. Muriaga",
+	  "email": "emmanuelmuriaga@gmail.com",
+      "homepage": "https:\/\/www.whmcs.com\/",
+	  "role": "Developer"
+    }
+  ]
+}
